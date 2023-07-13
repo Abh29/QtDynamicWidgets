@@ -1,0 +1,1 @@
+Simple application in qt6 to add and remove widgets dynamically into a scrollArea while applying a style theme
